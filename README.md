@@ -1,12 +1,14 @@
 
 # Roller-Splat
 
-The goal in the game is to 
+The aim of the game is to paint all the corridors
+
+Swipe and all around to send you ball rolling through the maze as you splash, splat color all over the white maze. Complete the levels of each puzzle by covering every corridor and corner with paint.
 
 
 # Gameplay
 
-<img src="https://github.com/muratkrdl/Unity-Frogger/blob/main/Frogger.gif" width="auto">
+<img src="--" width="auto">
 
 ## Authors
 
