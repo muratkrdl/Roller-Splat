@@ -8,7 +8,7 @@ Swipe and all around to send you ball rolling through the maze as you splash, sp
 
 # Gameplay
 
-<img src="https://github.com/muratkrdl/Roller-Splat/blob/main/Gameplay.gif" width="600">
+<img src="https://github.com/muratkrdl/Roller-Splat/blob/main/Gameplay.gif" width="500">
 
 ## Authors
 
